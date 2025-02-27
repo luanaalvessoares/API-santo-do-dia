@@ -111,10 +111,3 @@ para visualizar e testar os endpoints diretamente pela interface interativa do S
 - O web scraping pode falhar caso o site de origem altere sua estrutura.
 - Pode haver variação no tempo de resposta devido ao carregamento da página de origem.
 
-## 📜 Licença
-Este projeto está sob a licença MIT.
-
----
-
-📌 **Desenvolvido por [Seu Nome](https://github.com/seuusuario)** ✨
-
